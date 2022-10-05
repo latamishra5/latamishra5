@@ -13,24 +13,20 @@
 </div>
 
 <div align="center">
-  
-  ##
-  
-<p>I'm a Fronted Web Developer with 6 month of hands-on experience Designing and Developing solutions using various tools and programming languages. Open Source Contribution Building a Coding Commodity Learn MERN & Alogorithm.I love learning new techs and using new tools. I also challenge myself everyday to get better at something.</p>
+<br/>
+<p>I'm a Fronted Web Developer with 6 month of hands-on experience Designing and Developing solutions using various tools and programming languages. Open Source Contribution Building a Coding Commodity Learn MERN & Alogorithm.<p/> <p>I love learning new techs and using new tools. I also challenge myself everyday to get better at something.</p>
 <p>⚡Fun fact :-  Fun fact : Chai tastes way better than Coffee | Change my mind! --> </p>
 <div/>
   
 <div align="center">
-  
-  ##
-  
+   <h3 align="center"><img src="https://github.com/latamishra5/latamishra5/blob/main/Ybin.gif" alt="latamishra5 width=50" height="50"></h3>
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Lata Mishra | 💻 Full Stack Developer | 🛸 India , UP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h6><i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i></h6>
   </div>
-  
+ <br>
 <div align="center">
   
-  ## 
+  ## Status 💥 Streak
 
 <br/>
   
