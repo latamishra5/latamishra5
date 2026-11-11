@@ -1,0 +1,36 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="80" y1="120" x2="1110" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D5EF5"/>
+      <stop offset="1" stop-color="#24D6C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="22" fill="#F8FAFC"/>
+  <path d="M160 112H1040" stroke="url(#line)" stroke-width="3" stroke-dasharray="7 9"/>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(70 36)">
+      <rect width="270" height="148" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+      <circle cx="34" cy="34" r="18" fill="#EDE9FE"/>
+      <text x="27" y="40" fill="#6D5EF5" font-size="17" font-weight="700">01</text>
+      <text x="28" y="80" fill="#0F172A" font-size="19" font-weight="700">Understand</text>
+      <text x="28" y="108" fill="#64748B" font-size="14">Turn a real need into</text>
+      <text x="28" y="128" fill="#64748B" font-size="14">a clear product direction.</text>
+    </g>
+    <g transform="translate(465 36)">
+      <rect width="270" height="148" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+      <circle cx="34" cy="34" r="18" fill="#CCFBF1"/>
+      <text x="27" y="40" fill="#0F9F93" font-size="17" font-weight="700">02</text>
+      <text x="28" y="80" fill="#0F172A" font-size="19" font-weight="700">Build</text>
+      <text x="28" y="108" fill="#64748B" font-size="14">Compose thoughtful UX,</text>
+      <text x="28" y="128" fill="#64748B" font-size="14">code, and useful automation.</text>
+    </g>
+    <g transform="translate(860 36)">
+      <rect width="270" height="148" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+      <circle cx="34" cy="34" r="18" fill="#FCE7F3"/>
+      <text x="27" y="40" fill="#DB2777" font-size="17" font-weight="700">03</text>
+      <text x="28" y="80" fill="#0F172A" font-size="19" font-weight="700">Improve</text>
+      <text x="28" y="108" fill="#64748B" font-size="14">Ship, learn from feedback,</text>
+      <text x="28" y="128" fill="#64748B" font-size="14">and make the next version better.</text>
+    </g>
+  </g>
+</svg>

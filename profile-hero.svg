@@ -1,0 +1,56 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111A35"/>
+      <stop offset="1" stop-color="#1D1235"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="160" y1="40" x2="890" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D5EF5"/>
+      <stop offset="1" stop-color="#24D6C7"/>
+    </linearGradient>
+    <filter id="blur" x="-100" y="-100" width="1400" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#background)"/>
+  <circle cx="106" cy="24" r="130" fill="#6D5EF5" fill-opacity="0.24" filter="url(#blur)"/>
+  <circle cx="1052" cy="312" r="160" fill="#24D6C7" fill-opacity="0.16" filter="url(#blur)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+
+  <path d="M0 292C154 244 206 322 348 280C510 232 568 282 700 252C866 214 998 246 1200 158" stroke="url(#glow)" stroke-opacity="0.42" stroke-width="2"/>
+  <path d="M0 304C154 256 206 334 348 292C510 244 568 294 700 264C866 226 998 258 1200 170" stroke="url(#glow)" stroke-opacity="0.12" stroke-width="12"/>
+
+  <g transform="translate(82 66)">
+    <rect width="620" height="228" rx="18" fill="#0A0F1E" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <circle cx="28" cy="28" r="5" fill="#FF6B8A"/>
+    <circle cx="48" cy="28" r="5" fill="#F9C74F"/>
+    <circle cx="68" cy="28" r="5" fill="#5EE6B4"/>
+    <text x="30" y="78" fill="#94A3B8" font-family="monospace" font-size="15">~/lata-mishra • profile.tsx</text>
+    <text x="30" y="123" fill="#B7A8FF" font-family="monospace" font-size="22">const</text>
+    <text x="104" y="123" fill="#F8FAFC" font-family="monospace" font-size="22">builder</text>
+    <text x="202" y="123" fill="#94A3B8" font-family="monospace" font-size="22">=</text>
+    <text x="222" y="123" fill="#72E6D8" font-family="monospace" font-size="22">"full-stack"</text>
+    <text x="30" y="163" fill="#B7A8FF" font-family="monospace" font-size="22">ship</text>
+    <text x="88" y="163" fill="#94A3B8" font-family="monospace" font-size="22">({"</text>
+    <text x="113" y="163" fill="#F8FAFC" font-family="monospace" font-size="22">ideas</text>
+    <text x="170" y="163" fill="#94A3B8" font-family="monospace" font-size="22">:"</text>
+    <text x="192" y="163" fill="#72E6D8" font-family="monospace" font-size="22">useful products</text>
+    <text x="362" y="163" fill="#94A3B8" font-family="monospace" font-size="22">"})</text>
+    <rect x="30" y="188" width="116" height="4" rx="2" fill="#6D5EF5"/>
+    <rect x="154" y="188" width="74" height="4" rx="2" fill="#24D6C7"/>
+  </g>
+
+  <g transform="translate(770 70)">
+    <text fill="#94A3B8" font-family="Arial, sans-serif" font-size="14" letter-spacing="2.4">LATA MISHRA / 2026</text>
+    <text y="54" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="38" font-weight="700">Build with intent.</text>
+    <text y="96" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="38" font-weight="700">Ship with clarity.</text>
+    <rect y="124" width="72" height="3" rx="1.5" fill="#72E6D8"/>
+    <text y="164" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="16">Web • AI • Automation</text>
+    <text y="192" fill="#64748B" font-family="Arial, sans-serif" font-size="14">Ghaziabad, India  /  open to collaboration</text>
+  </g>
+</svg>

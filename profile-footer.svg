@@ -1,0 +1,17 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="22" fill="url(#footer)"/>
+  <path d="M46 106C156 54 218 112 326 76C434 40 488 104 592 67C702 27 764 94 872 58C977 23 1050 68 1154 42" stroke="#72E6D8" stroke-opacity="0.85" stroke-width="2"/>
+  <path d="M46 106C156 54 218 112 326 76C434 40 488 104 592 67C702 27 764 94 872 58C977 23 1050 68 1154 42" stroke="#72E6D8" stroke-opacity="0.15" stroke-width="11"/>
+  <g fill="#FFFFFF">
+    <circle cx="46" cy="106" r="5"/><circle cx="326" cy="76" r="5"/><circle cx="592" cy="67" r="5"/><circle cx="872" cy="58" r="5"/><circle cx="1154" cy="42" r="5"/>
+  </g>
+  <text x="48" y="42" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="13" letter-spacing="2.5">MAKE IT USEFUL</text>
+  <text x="48" y="76" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="700">One thoughtful commit at a time.</text>
+  <text x="934" y="122" fill="#94A3B8" font-family="monospace" font-size="13">lata-mishra.dev</text>
+</svg>
